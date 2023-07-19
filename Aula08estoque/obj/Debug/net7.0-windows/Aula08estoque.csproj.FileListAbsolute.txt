@@ -1,0 +1,17 @@
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\bin\Debug\net7.0-windows\Aula08estoque.exe
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\bin\Debug\net7.0-windows\Aula08estoque.deps.json
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\bin\Debug\net7.0-windows\Aula08estoque.runtimeconfig.json
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\bin\Debug\net7.0-windows\Aula08estoque.dll
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\bin\Debug\net7.0-windows\Aula08estoque.pdb
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.Form1.resources
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.AssemblyInfoInputs.cache
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.AssemblyInfo.cs
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.dll
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\refint\Aula08estoque.dll
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.pdb
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\Aula08estoque.genruntimeconfig.cache
+C:\Users\Public\source\repos\Yosuke\Aula08estoque\Aula08estoque\obj\Debug\net7.0-windows\ref\Aula08estoque.dll
